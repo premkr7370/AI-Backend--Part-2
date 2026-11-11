@@ -1,4 +1,4 @@
-# AI-Backend--Part-1: Groq Chat API
+# AI-Backend--Part-2: Groq Chat API
 
 A small Express server that sends chat prompts to Groq using LangChain's `ChatGroq` integration.
 
